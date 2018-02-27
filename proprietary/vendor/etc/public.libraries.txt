@@ -1,7 +1,8 @@
-libOpenCL.so
-libqti_performance.so
 libqti-perfd-client.so
-lib-ims-rcscmjni.so
-lib-imsrcscm.so
-lib-imsrcscmclient.so
-lib-imsrcscmservice.so
+libadsprpc.so
+libcdsprpc.so
+libsdsprpc.so
+libOpenCL.so
+libqvrservice_client.so
+libtzcom.so
+libOpenCL.so
